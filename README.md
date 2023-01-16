@@ -1,16 +1,12 @@
-# Hi there, I'm Ilya ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm Ilya ! ✌️
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=Backend+developer+from+Russia)](https://git.io/typing-svg)
 <!--
 **Haze31525/Haze31525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning web
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: qweiop090@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Languages and tools:
+
+
+- 🌱 I’m currently learning web
+- 📫 How to reach me: **qweiop090@gmail.com**
