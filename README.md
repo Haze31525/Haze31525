@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ### Languages and tools:
+[](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)
 
-
-- 🌱 I’m currently learning web
-- 📫 How to reach me: **qweiop090@gmail.com**
+🌱 I’m currently learning web
+📫 How to reach me: **qweiop090@gmail.com**
