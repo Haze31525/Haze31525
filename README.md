@@ -1,4 +1,4 @@
-# Hi there, I'm Ilya 🇷🇺! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi there, I'm Ilya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=Backend+developer+from+Russia)](https://git.io/typing-svg)
 
 <img src="https://media0.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" width="250" height="250"/>
